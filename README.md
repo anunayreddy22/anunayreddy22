@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anunay Reddy Kallem</h1>
-<h3 align="center">Computer Graduate@Missouri University of Science and Technology</h3>
+<h3 align="center">Computer Science Graduate@Missouri University of Science and Technology</h3>
 
 - 🔭 I’m currently working on **Sorting Visualizer**
 
