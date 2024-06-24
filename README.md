@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Sorting Visualizer**
 
-- 🌱 I’m currently learning **React, MongoDB**
+- 🌱 I’m currently learning **React, Springboot**
 
 - 💬 Ask me about **Java**
 
