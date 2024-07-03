@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anunay Reddy Kallem</h1>
 <h3 align="center">Computer Science Graduate@Missouri University of Science and Technology</h3>
 
-- 🔭 I’m currently working on **Sorting Visualizer**
+- 🔭 I’m currently working on **E Commerce Website**
 
-- 🌱 I’m currently learning **React, Springboot**
-
-- 💬 Ask me about **Java**
+- 🌱 I’m currently learning **Full Stack**
 
 - 📫 How to reach me **anunaykallem@gmail.com**
 
