@@ -10,7 +10,7 @@
 </div>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/anunay-reddy-37a0731b9">
+  <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -44,4 +44,3 @@ Welcome to my profile! I'm a passionate Software Engineer and Web Developer <img
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anunayreddy22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
