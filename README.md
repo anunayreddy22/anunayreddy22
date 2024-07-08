@@ -16,7 +16,7 @@
   <a href="anunaykallem@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="_anunay_reddy">
+  <a href="https://www.instagram.com/_anunay_reddy/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
