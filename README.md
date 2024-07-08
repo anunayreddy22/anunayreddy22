@@ -13,9 +13,6 @@
   <a href="https://www.linkedin.com/in/anunay-reddy-37a0731b9/">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="anunaykallem@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
   <a href="https://www.instagram.com/_anunay_reddy/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
@@ -27,7 +24,8 @@
 <div align= "center">
 <img src="https://komarev.com/ghpvc/?username=anunayreddy22&style=flat-square&color=blue" alt="" />
 </div>
-
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/> 
@@ -39,6 +37,7 @@ Welcome to my profile! I'm a passionate Software Engineer and Web Developer <img
 - 💻 Currently, I'm pursuing my master's in Computer Science.
 - ✍️ I like writing short handed notes on Topics which i learn in my github profile.
 - ⚡ In my free time, I love exploring  emerging technologies and best practices.
+- You can reach me through: anunaykallem@gmail.com or Linkedin
 
 ----------------------------------------------------------------------------------------------------
 
