@@ -31,7 +31,7 @@ Welcome to my profile! I'm a passionate Software Engineer and Web Developer <img
 - 💻 Currently, I'm pursuing my master's in Computer Science.
 - ✍️ I like writing short handed notes on Topics which i learn in my github profile.
 - ⚡ In my free time, I love exploring  emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Anunay-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/anunay-reddy-37a0731b9)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Anunay-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
 ----------------------------------------------------------------------------------------------------
 
